@@ -2,6 +2,14 @@
 History
 =======
 
+0.0.3 (2016-07-14)
+------------------
+
+**Miscellaneous**
+
+* better know how in bumpversion.
+
+
 0.0.2 (2016-07-14)
 ------------------
 
