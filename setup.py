@@ -23,7 +23,7 @@ test_requirements = [
 
 setup(
     name='ukmdb_amqp',
-    version='0.0.3',
+    version='0.0.4',
     description="Advanced Messaging in UKMDB.",
     long_description=readme + '\n\n' + history,
     author="Markus Leist",
